@@ -1,0 +1,17 @@
+body {
+  scrollbar-color: white white;
+}
+
+body::-webkit-scrollbar {
+  width: 0px;
+}
+
+body::-webkit-scrollbar-track {
+  background: white;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: white;
+  border-radius: 10px;
+ 
+}
